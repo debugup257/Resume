@@ -1,7 +1,7 @@
 # Devesh Gupta
 ## Software Developer | Data Modeling
 Hyderabad, India
-[Your Phone Number](tel:YourPhoneNumber) | [Your Email Address](mailto:youremail@example.com) | [LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+[dg.office257@gmail.com](mailto:dg.office257@gmail.com) | [LinkedIn Profile]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/devesh-gupta-Data-Science/))
 
 ---
 
