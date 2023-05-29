@@ -27,7 +27,6 @@ Highly skilled software developer and data modeling professional with expertise 
 - Machine Learning and Deep Learning: Scikit-learn, TensorFlow, Keras
 - Chatbot Development
 - AWS: Boto3
-- Version Control: Git
 - Data Analysis and Visualization: Pandas, Matplotlib, Tableau
 - Operating Systems: Linux, Windows
 
@@ -36,7 +35,7 @@ Highly skilled software developer and data modeling professional with expertise 
 ## Experience
 **Software Developer | Data Modeling**  
 Innova Solutions, Hyderabad, India  
-[Dates]
+[Sept-2022 To Currently Working Here]
 
 - Developed software solutions and performed data modeling tasks using Python programming.
 - Automated web-based processes through the utilization of Selenium web automation.
