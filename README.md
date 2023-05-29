@@ -70,9 +70,3 @@ Innova Solutions
 - Led the development of a chatbot designed for initial screening of job applicants in the HR department.
 - Utilized natural language processing (NLP) techniques and frameworks to enable the chatbot to understand and respond to applicant queries.
 - Integrated the chatbot with existing HR systems, facilitating seamless communication and efficient screening processes.
-
----
-
-## Languages
-- English (Fluent)
-- Hindi (Native)
