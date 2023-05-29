@@ -58,7 +58,7 @@ Innova Solutions
 
 **POC on Text Extraction using Large Language Models from PDF**
 Innova Solutions  
-[May-2022]
+[May-2023]
 
 - Conducted a Proof of Concept (POC) project on extracting text from PDF documents using large language models.
 - Explored different techniques and frameworks, leveraging the power of large language models for accurate text extraction.
@@ -66,7 +66,7 @@ Innova Solutions
 
 **Chatbot Development for HR Initial Screening**
 Innova Solutions  
-[Dec-2021]
+[Dec-2022]
 
 - Led the development of a chatbot designed for initial screening of job applicants in the HR department.
 - Utilized natural language processing (NLP) techniques and frameworks to enable the chatbot to understand and respond to applicant queries.
